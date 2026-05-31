@@ -17,7 +17,6 @@ pt photo dump! (lmk if you wanna add a pic here)
 <img width="873" height="421" alt="Screenshot_20260502_215750_Pony_Town" src="https://github.com/user-attachments/assets/60dda7cc-58d2-44c4-995b-09a75454e19d" />
 <img width="805" height="365" alt="Screenshot_20260518_162338_Pony_Town" src="https://github.com/user-attachments/assets/3d6a751c-03a0-4b87-9b42-cee8836153bc" />
 <img width="785" height="357" alt="Screenshot_20260412_145317_Pony_Town1" src="https://github.com/user-attachments/assets/95450d9b-84af-44fb-a704-139a34373df4" />
-<img width="523" height="800" alt="Screenshot_20260529_023154_Pony_Town" src="https://github.com/user-attachments/assets/f6ecb0eb-4986-4b23-a4d1-3ed184c82dbc" />
 <img width="800" height="389" alt="Screenshot_20260528_231706_Pony_Town" src="https://github.com/user-attachments/assets/f4915a18-2875-4477-b9fa-80bdf5ce04b7" />
 <img width="588" height="362" alt="Screenshot_20260528_230428_Pony_Town" src="https://github.com/user-attachments/assets/1cee451f-1e7c-4420-8924-9e454758e282" />
 <img width="671" height="671" alt="Screenshot_20260531_013707_Pony_Town" src="https://github.com/user-attachments/assets/24c8a713-2f00-4d35-a6e7-685f250f89ce" />
